@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<export>
+	<info>
+		<infoproject>Offline</infoproject>
+		<export_version>10</export_version>
+	</info>
+	<module>
+		<name>org.opencms.test.reducedexport</name>
+		<nicename><![CDATA[Reduced Export Test]]></nicename>
+		<group>Alkacon OpenCms Test Modules</group>
+		<class/>
+		<import-site>/</import-site>
+		<export-mode name="reduced"/>
+		<description><![CDATA[This module is just for test cases. We evaluate how the reduced export information affects mergability in git.]]></description>
+		<version>0.1</version>
+		<authorname><![CDATA[Daniel Seidel]]></authorname>
+		<authoremail><![CDATA[d.seidel@alkacon.com]]></authoremail>
+		<datecreated/>
+		<userinstalled/>
+		<dateinstalled/>
+		<dependencies/>
+		<exportpoints/>
+		<resources>
+			<resource uri="/system/modules/org.opencms.test.reducedexport/"/>
+		</resources>
+		<excluderesources/>
+		<parameters/>
+	</module>
+	<files>
+		<file>
+			<destination>system</destination>
+			<type>folder</type>
+			<uuidstructure>35077fb3-3f52-11e5-af92-df8540334f02</uuidstructure>
+			<datecreated>Mon, 10 Aug 2015 11:23:21 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol>
+				<accessentry>
+					<uuidprincipal>ROLE.WORKPLACE_USER</uuidprincipal>
+					<flags>514</flags>
+					<permissionset>
+						<allowed>1</allowed>
+						<denied>0</denied>
+					</permissionset>
+				</accessentry>
+			</accesscontrol>
+		</file>
+		<file>
+			<destination>system/modules</destination>
+			<type>folder</type>
+			<uuidstructure>37329c4f-3f52-11e5-af92-df8540334f02</uuidstructure>
+			<datecreated>Mon, 10 Aug 2015 11:23:25 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol>
+				<accessentry>
+					<uuidprincipal>ROLE.WORKPLACE_USER</uuidprincipal>
+					<flags>514</flags>
+					<permissionset>
+						<allowed>5</allowed>
+						<denied>0</denied>
+					</permissionset>
+				</accessentry>
+			</accesscontrol>
+		</file>
+		<file>
+			<destination>system/modules/org.opencms.test.reducedexport</destination>
+			<type>folder</type>
+			<uuidstructure>44a536cb-3f5b-11e5-bb15-df8540334f02</uuidstructure>
+			<datecreated>Mon, 10 Aug 2015 12:28:13 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol/>
+		</file>
+		<file>
+			<source>system/modules/org.opencms.test.reducedexport/test.html</source>
+			<destination>system/modules/org.opencms.test.reducedexport/test.html</destination>
+			<type>jsp</type>
+			<uuidstructure>65cb15a2-3f5b-11e5-bb15-df8540334f02</uuidstructure>
+			<uuidresource>65cb15a3-3f5b-11e5-bb15-df8540334f02</uuidresource>
+			<datecreated>Mon, 10 Aug 2015 12:29:08 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties>
+				<property type="shared">
+					<name>export</name>
+					<value><![CDATA[false]]></value>
+				</property>
+			</properties>
+			<relations/>
+			<accesscontrol/>
+		</file>
+	</files>
+</export>
