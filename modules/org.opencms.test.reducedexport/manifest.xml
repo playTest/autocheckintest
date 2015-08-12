@@ -49,7 +49,7 @@
 			<type>folder</type>
 			<uuidstructure>7c826011-40b7-11e5-baac-f569dd00dbb1</uuidstructure>
 			<datecreated>Wed, 12 Aug 2015 06:00:51 GMT</datecreated>
-			<usercreated>Admin</usercreated>
+			<usercreated>nimda</usercreated>
 			<flags>0</flags>
 			<properties/>
 			<relations/>
@@ -62,7 +62,7 @@
 			<uuidstructure>859fe6e3-40b7-11e5-baac-f569dd00dbb1</uuidstructure>
 			<uuidresource>859fe6e4-40b7-11e5-baac-f569dd00dbb1</uuidresource>
 			<datecreated>Wed, 12 Aug 2015 06:01:06 GMT</datecreated>
-			<usercreated>Admin</usercreated>
+			<usercreated>nimda</usercreated>
 			<flags>0</flags>
 			<properties>
 				<property>
@@ -88,7 +88,7 @@
 			<type>folder</type>
 			<uuidstructure>665f69db-40b7-11e5-baac-f569dd00dbb1</uuidstructure>
 			<datecreated>Wed, 12 Aug 2015 06:00:14 GMT</datecreated>
-			<usercreated>Admin</usercreated>
+			<usercreated>nimda</usercreated>
 			<flags>0</flags>
 			<properties/>
 			<relations/>
@@ -99,7 +99,7 @@
 			<type>folder</type>
 			<uuidstructure>6665363d-40b7-11e5-baac-f569dd00dbb1</uuidstructure>
 			<datecreated>Wed, 12 Aug 2015 06:00:14 GMT</datecreated>
-			<usercreated>Admin</usercreated>
+			<usercreated>nimda</usercreated>
 			<flags>0</flags>
 			<properties/>
 			<relations/>
@@ -112,31 +112,9 @@
 			<uuidstructure>a759ef66-40b7-11e5-baac-f569dd00dbb1</uuidstructure>
 			<uuidresource>a759ef67-40b7-11e5-baac-f569dd00dbb1</uuidresource>
 			<datecreated>Wed, 12 Aug 2015 06:02:03 GMT</datecreated>
-			<usercreated>Admin</usercreated>
+			<usercreated>nimda</usercreated>
 			<flags>0</flags>
 			<properties>
-				<property type="shared">
-					<name>export</name>
-					<value><![CDATA[false]]></value>
-				</property>
-			</properties>
-			<relations/>
-			<accesscontrol/>
-		</file>
-		<file>
-			<source>system/modules/org.opencms.test.reducedexport/elements/first.jsp</source>
-			<destination>system/modules/org.opencms.test.reducedexport/elements/first.jsp</destination>
-			<type>jsp</type>
-			<uuidstructure>83c96d97-40c1-11e5-9bd1-df8540334f02</uuidstructure>
-			<uuidresource>83c96d98-40c1-11e5-9bd1-df8540334f02</uuidresource>
-			<datecreated>Wed, 12 Aug 2015 07:12:38 GMT</datecreated>
-			<usercreated>Admin</usercreated>
-			<flags>0</flags>
-			<properties>
-				<property>
-					<name>Title</name>
-					<value><![CDATA[New on the first system.]]></value>
-				</property>
 				<property type="shared">
 					<name>export</name>
 					<value><![CDATA[false]]></value>
