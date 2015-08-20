@@ -2,3 +2,4 @@ We finally suceeded.
 And we can repeat it.
 Things should go wrong now.
 And now we can choose if to commit automatically or not.
+Blah blubb.
