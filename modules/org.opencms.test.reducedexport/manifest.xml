@@ -96,6 +96,18 @@
 			<accesscontrol/>
 		</file>
 		<file>
+			<source>sites/default/test/testsubfolder/test2.txt</source>
+			<destination>sites/default/test/testsubfolder/test2.txt</destination>
+			<type>plain</type>
+			<uuidstructure>0581224a-56e0-11e5-90e6-8163cdc4d609</uuidstructure>
+			<uuidresource>0581224b-56e0-11e5-90e6-8163cdc4d609</uuidresource>
+			<datecreated>Wed, 09 Sep 2015 10:46:26 GMT</datecreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol/>
+		</file>
+		<file>
 			<destination>system</destination>
 			<type>folder</type>
 			<properties/>
